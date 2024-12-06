@@ -1,0 +1,10 @@
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\bin\Debug\GestionTareasPendientes.exe.config
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\bin\Debug\GestionTareasPendientes.exe
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\bin\Debug\GestionTareasPendientes.pdb
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.csproj.AssemblyReference.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.Form1.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.Properties.Resources.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.csproj.GenerateResource.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.csproj.CoreCompileInputs.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.exe
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.pdb
